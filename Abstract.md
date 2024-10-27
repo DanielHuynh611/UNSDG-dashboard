@@ -6,5 +6,4 @@ This disparity highlights the urgent need for international financial investment
 
 Given that international cooperation is the only viable solution to the climate crisis, a global commitment to funding renewable energy in developing countries is essential to ensure equal access to clean energy (SDG 7) and to address the pressing challenges of climate change (SDG 13). Investing now will not only support sustainable development but also build resilience against future climate impacts.
 
-## Data source
 
