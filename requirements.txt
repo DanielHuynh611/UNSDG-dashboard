@@ -3,3 +3,4 @@ pandas
 gunicorn
 numpy
 openpyxl
+plotly
