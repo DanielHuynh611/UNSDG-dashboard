@@ -41,3 +41,6 @@ The dashboard displays information such as GHG emissions by sector, correlation 
 - Horizontal bar chart displaying renewable energy capacity by region for the year 2022.
 5. Financial Flows Supporting Clean Energy
 - Time series chart showing international financial investments in renewable energy projects by region. Users can select different regions to view their specific financial flow trends.
+
+## License
+This project is licensed under the MIT License.
